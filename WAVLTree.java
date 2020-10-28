@@ -7,10 +7,6 @@
  *
  */
 
-
-//YOAV SHAMIR, 311332720, yoavshamir1
-//KIM ASSEO, 311253827, kimasseo
-
 public class WAVLTree {
 	
 	public WAVLNode max;
