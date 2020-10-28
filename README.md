@@ -1,2 +1,2 @@
 # WAVL
-WAVL for data starctures
+WAVL tree for data sturctures
